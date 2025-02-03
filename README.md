@@ -73,31 +73,31 @@ The design of pages is at [Figma File Link](https://www.figma.com/file/uglTzpF9R
 
 Login Page
 
-<img src="./img/login.jpeg" alt="login page" height ="300" width="400">
+<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="login page" height ="300" width="400">
 
 Explore Page
 
-<img src="./img/explorepage.png" alt="login page" height ="600" width="400">
+<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="login page" height ="600" width="400">
 
 Personal Chat
 
-<img src="./img/personalchat.png" alt="login page" height ="300" width="400">
+<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="login page" height ="300" width="400">
 
 Project Page
 
-<img src="./img/project.png" alt="project page" height ="600" width="400">
+<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="project page" height ="600" width="400">
 
 Profile Page
 
-<img src="./img/profile.png" alt="profile page" height ="300" width="400">
+<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="profile page" height ="300" width="400">
 
 Create Page
 
-<img src="./img/create.png" alt="profile page" height ="300" width="400">
+<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="profile page" height ="300" width="400">
 
 Search Profile
 
-<img src="./img/searchprof.png" alt="profile page" height ="300" width="400">
+<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="profile page" height ="300" width="400">
 
 ## Tech-Stack Used
 
