@@ -100,16 +100,16 @@ Search Profile
 ### Front End Dependencies
 
 
--**@babel/generator**: ^7.26.5  
--**@babel/parser**: ^7.26.7  
--**@babel/template**: ^7.25.9  
--**@babel/traverse**: ^7.26.7  
--**@babel/types**: ^7.26.7  
--**@emotion/react**: ^11.14.0  
--**@emotion/styled**: ^11.14.0  
--**@monaco-editor/react**: ^4.6.0  
--**@mui/material**: ^6.4.2  
--**@types/xml2js**: ^0.4.14  
+- **@babel/generator**: ^7.26.5  
+- **@babel/parser**: ^7.26.7  
+- **@babel/template**: ^7.25.9  
+- **@babel/traverse**: ^7.26.7  
+- **@babel/types**: ^7.26.7  
+- **@emotion/react**: ^11.14.0  
+- **@emotion/styled**: ^11.14.0  
+- **@monaco-editor/react**: ^4.6.0  
+- **@mui/material**: ^6.4.2  
+- **@types/xml2js**: ^0.4.14  
 -**@webcontainer/api**: ^1.5.1  
 -**ast-types**: ^0.16.1  
 -**axios**: ^1.7.9  
