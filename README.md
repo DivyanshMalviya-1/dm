@@ -1,6 +1,7 @@
 # Campus Collaboration
 
-This is a dynamic collaborative platform designed for college students to showcase their projects, foster meaningful collaborations, and connect with like-minded peers. Whether you are working on innovative software applications, groundbreaking research projects, or creative endeavors, our platform provides a vibrant space for you to share your work, collaborate with others, and explore a diverse range of projects within the college community.
+AI-Powered Text to Website Generator is an intelligent tool that generates fully functional websites based on natural language prompts. Our website generator is designed for users with little or no coding experience, empowering them to create professional-looking websites effortlessly. With intuitive smart automation, and editable features, anyone can build stunning websites tailored to their needs.
+Built with React, our platform ensures a seamless and intuitive user experience. The generated websites come with modern UI components, responsive layouts, and optimized code—making website creation effortless for users without technical expertise
 
 ## Description
 
