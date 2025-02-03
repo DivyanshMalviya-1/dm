@@ -17,9 +17,9 @@ projects.
 Toxicity classifier has been implemented as well to ensure a safe environment for communication among users. The model used for this has been imported from TensorFlow's pretrained Model -[Toxicity Classification](https://github.com/tensorflow/tfjs-models/tree/master/toxicity)
 ## User Research Insights
 
-<img src="./img/graph2.jpeg" alt="login page" height ="300" width="400">
+<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="login page" height ="300" width="400">
 
-<img src="./img/graph1.jpeg" alt="login page" height ="300" width="400">
+<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="login page" height ="300" width="400">
 
 ## Overview
 
