@@ -4,9 +4,12 @@ AI-Powered Text to Website Generator is an intelligent tool that generates fully
 
 ## Description
 With intuitive smart automation, and editable features, anyone can build stunning websites tailored to their needs. User-Friendly Interface: Intuitive design with drag-and-drop functionality for easy customization.
+
 AI-Driven Templates: Automatically generated templates based on user input, tailored to various industries and styles.
 Responsive Design: Ensures websites look great on all devices, from desktops to mobile phones.
+
 Customizable Components: Includes pre-designed components like headers, footers, galleries, and contact forms that can be easily modified.
+
 Seamless Integration: Supports embedding multimedia, social media links, and third-party tools.
 Instant Preview: Real-time preview feature to visualize changes instantly.
 ## User Research Insights
