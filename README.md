@@ -208,14 +208,3 @@ npm start
 ```
 
 The server should now be running on [http://localhost:3000](http://localhost:3000).
-
-## Contact
-
-- [ Mittal](https://github.com/Tanmay7404)
-- [Rishi Tirpude](https://github.com/RishiTirpude19)
-- [Sushant Kumar](https://github.com/LegendsDen/)
-- [Simon Lalremsiama Shangpliang](https://github.com/SimonShangpliang)
-- [Syed Wahid Alam](https://github.com/Wahid-1416)
-- [Priyanshu Pratyay](https://github.com/PPratyay/)
-- [Soumya Savarn](https://github.com/soumyasavarn)
-- [Om Gajjar](https://github.com/omgajjar18)
