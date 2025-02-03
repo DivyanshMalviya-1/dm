@@ -185,38 +185,45 @@ Search Profile
 
 ## Installation
 
-In the terminal run the following command to run the code.
+Follow these steps to install and run the project:
 
-First go to server directory then run following command to install all dependencies for the server of the project.
+### 1. Set Up the Server
+
+Navigate to the server directory and install all dependencies:
 
 ```bash
 npm i
 ```
 
-The following code snippet starts the rendering of the server.
+To start the server, run:
 
 ```bash
 npm run dev
 ```
-Then go to client directory then run following command to install all dependencies for the frontend of the project.
+
+### 2. Set Up the Client
+Navigate to the client directory and install all dependencies:
 
 ```bash
 npm i
 ```
 
-The following code snippet starts the rendering of the website.
+To start the frontend, run:
 
 ```bash
 npm run dev
 ```
 ## Usage
 
-After running the following command in the terminal inside server directory 
+To run the project, follow these steps:
 
+1. Start the server by running the following command inside the server directory:
+   
 ```bash
 npm run dev 
 ```
-Then running the following command in the terminal inside client directory 
+
+2. Start the frontend by running the following command inside the client directory:
 
 ```bash
 npm run dev 
