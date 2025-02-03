@@ -93,31 +93,45 @@ Search Profile
 - [MongoDB](https://www.mongodb.com/) - The database
 - [Express.js](https://expressjs.com/) - The web framework
 - [React](https://reactjs.org/) - The frontend library
-- [Node.js](https://nodejs.org/) - The server environment
-- [MSAL] - The Outlook Login
+- [Node.js](https://nodejs.org/) - The server environment  
 
 ## Dependencies
 
 ### Front End Dependencies
 
-- **@emotion/react**: ^11.11.3
-- **@emotion/styled**: ^11.11.0
-- **@mui/material**: ^5.15.9
-- **@testing-library/jest-dom**: ^5.17.0
-- **@testing-library/react**: ^13.4.0
-- **@testing-library/user-event**: ^13.5.0
-- **axios**: ^1.6.7
-- **bootstrap**: ^5.3.2
-- **cloudinary**: ^2.0.1
-- **react**: ^18.2.0
-- **react-bootstrap**: ^2.10.0
-- **react-dom**: ^18.2.0
-- **react-icons**: ^5.0.1
-- **react-router-dom**: ^6.22.0
-- **react-scripts**: ^5.0.1
-- **socket.io**: ^4.7.4
-- **socket.io-client**: ^4.7.4
-- **web-vitals**: ^2.1.4
+
+-**@babel/generator**: ^7.26.5  
+-**@babel/parser**: ^7.26.7  
+-**@babel/template**: ^7.25.9  
+-**@babel/traverse**: ^7.26.7  
+-**@babel/types**: ^7.26.7  
+-**@emotion/react**: ^11.14.0  
+-**@emotion/styled**: ^11.14.0  
+-**@monaco-editor/react**: ^4.6.0  
+-**@mui/material**: ^6.4.2  
+-**@types/xml2js**: ^0.4.14  
+-**@webcontainer/api**: ^1.5.1  
+-**ast-types**: ^0.16.1  
+-**axios**: ^1.7.9  
+-**clsx**: ^2.1.1  
+-**escodegen**: ^2.1.0  
+-**esprima**: ^4.0.1  
+-**estraverse**: ^5.3.0  
+-**events**: ^3.3.0  
+-**file-saver**: ^2.0.5  
+-**jszip**: ^3.10.1  
+-**lucide-react**: ^0.344.0  
+-**motion**: ^12.0.6  
+-**prop-types**: ^15.8.1  
+-**react**: ^18.3.1  
+-**react-dom**: ^18.3.1  
+-**react-icons**: ^5.4.0  
+-**react-router-dom**: ^6.29.0  
+-**recast**: ^0.23.9  
+-**tailwind-merge**: ^3.0.1  
+-**uuid**: ^11.0.5  
+-**vite-react-typescript-starter**: file:  
+-**xml2js**: ^0.6.2  
 
 ### Server-side Dependencies
 
