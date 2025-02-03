@@ -154,21 +154,34 @@ Search Profile
 
 ### Server-side Dependencies
 
-- **body-parser**: ^1.20.2
-- **cloudinary**: ^2.0.0
-- **cors**: ^2.8.5
-- **dotenv**: ^16.4.1
-- **ejs**: ^3.1.9
-- **express**: ^4.18.2
-- **fs**: ^0.0.1-security
-- **lodash**: ^4.17.21
-- **method-override**: ^3.0.0
-- **mongodb**: ^6.3.0
-- **mongoose**: ^8.1.1
-- **multer**: ^1.4.5-lts.1
-- **multer-storage-cloudinary**: ^4.0.0
-- **nodemon**: ^3.0.3
-- **socket.io**: ^4.7.4
+- **@eslint/js**: ^9.19.0  
+- **@google/generative-ai**: ^0.21.0  
+- **axios**: ^1.7.9  
+- **bcrypt**: ^5.1.1  
+- **bcryptjs**: ^2.4.3  
+- **body-parser**: ^1.20.3  
+- **compression**: ^1.7.5  
+- **cookie-parser**: ^1.4.7  
+- **cors**: ^2.8.5  
+- **dotenv**: ^16.4.7  
+- **eslint**: ^9.19.0  
+- **eslint-plugin-react**: ^7.37.4  
+- **express**: ^4.21.2  
+- **fs**: ^0.0.1-security  
+- **globals**: ^15.14.0  
+- **http-status-code**: ^2.1.0  
+- **jsonwebtoken**: ^9.0.2  
+- **mongodb**: ^6.12.0  
+- **mongoose**: ^8.9.5  
+- **multer**: ^1.4.5-lts.1  
+- **ngrok**: ^5.0.0-beta.2  
+- **nodemon**: ^3.1.9  
+- **openai**: ^4.81.0  
+- **prettier**: ^3.4.2  
+- **server**: file:  
+- **typescript**: ^5.7.3  
+- **uuid**: ^11.0.5  
+- **ts-node**: ^10.9.2
 
 ## Installation
 
