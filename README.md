@@ -12,21 +12,16 @@ Customizable Components: Includes pre-designed components like headers, footers,
 
 Seamless Integration: Supports embedding multimedia, social media links, and third-party tools.
 Instant Preview: Real-time preview feature to visualize changes instantly.
-## User Research Insights
-
-<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="login page" height ="300" width="400">
-
-<img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="login page" height ="300" width="400">
 
 ## Overview
 
-Our collaborative platform for college students aims to provide a space for collaboration, project showcase, and connecting with like-minded peers. The development of this platform is informed by user research insights obtained from a survey with 67 respondents.
+Our AI-powered Text-to-Website Generator transforms simple text prompts into fully functional, professional-looking websites. Designed for users with little to no coding experience, this tool streamlines the website creation process. Whether for personal projects, portfolios, or business websites, our generator ensures a hassle-free experience with stunning results.
 
-## Key Findings
+## Key Features
 
-1. **Openness to Collaboration:**
+1. **Costumize Your Generated Website with Live Editing:**
 
-   - 72% of college students expressed openness to seeking help and collaboration on our platform, indicating a positive attitude towards community-driven engagement.
+   - No Code Editing for a Seamless Experience .
 
 2. **Challenges in College Collaboration:**
 
