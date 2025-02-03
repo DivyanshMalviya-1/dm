@@ -35,12 +35,9 @@ Our AI-powered Text-to-Website Generator transforms simple text prompts into ful
 
    - Once you sign up, every project you create is automatically saved in our secure cloud database. Easily access, manage, and revisit your past projects anytime through a personalized dashboard.
 
-5. **Multimedia Support:**
+5. **View and Edit Individual Code Files:**
 
-   - 73% of respondents emphasized the importance of multimedia support, including images, videos, and documents, to provide a richer and more immersive view of showcased projects.
-
-6. **Enhanced User Experience:**
-   - Users highlighted the importance of features such as a user-friendly project posting interface, effective project search, and collaborative tools for an enhanced platform experience.
+   - Gain full control over your project by viewing and modifying the code for each file directly within the platform.
 
 ## Impact on Platform Ideation
 
