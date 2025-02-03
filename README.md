@@ -16,3 +16,4 @@ git clone https://github.com/your-repo/project-name.git
 cd project-name
 npm install
 npm run dev
+![image](https://github.com/user-attachments/assets/abbf1d34-9de3-48db-9d0e-fb54c6121d72)
