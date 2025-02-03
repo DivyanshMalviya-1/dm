@@ -23,17 +23,17 @@ Our AI-powered Text-to-Website Generator transforms simple text prompts into ful
 
    - No Code Editing for a Seamless Experience .
 
-2. **Challenges in College Collaboration:**
+2. **Download Your Project with a Single Tap:**
 
-   - 80% of participants highlighted the difficulty in connecting with like-minded peers on existing platforms, underscoring the need for effective mechanisms on our platform.
+   - Download the generated code for free.
 
-3. **Comfort in Sharing Projects:**
+3. **Live Preview Option Available:**
 
-   - Comfort levels varied, with 48% feeling very comfortable and 40% somewhat comfortable in sharing their projects online, emphasizing the importance of creating an inclusive environment.
+   - You can see the live preview of the Webpage you requested.
 
-4. **Importance of Project Details:**
+4. **Dedicated Dashboard with User History :**
 
-   - An overwhelming 82% stressed the significance of having a dedicated section for posting project details, aligning with our goal to enable comprehensive project showcases.
+   - Once you sign up, every project you create is automatically saved in our secure cloud database. Easily access, manage, and revisit your past projects anytime through a personalized dashboard.
 
 5. **Multimedia Support:**
 
