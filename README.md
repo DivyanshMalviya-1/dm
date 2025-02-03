@@ -1,21 +1,14 @@
 # Campus Collaboration
 
-AI-Powered Text to Website Generator is an intelligent tool that generates fully functional websites based on natural language prompts. Our website generator is designed for users with little or no coding experience, empowering them to create professional-looking websites effortlessly. With intuitive smart automation, and editable features, anyone can build stunning websites tailored to their needs.
-Built with React, our platform ensures a seamless and intuitive user experience. The generated websites come with modern UI components, responsive layouts, and optimized code—making website creation effortless for users without technical expertise
+AI-Powered Text to Website Generator is an intelligent tool that generates fully functional websites based on natural language prompts. Our website generator is designed for users with little or no coding experience, empowering them to create professional-looking websites effortlessly.Built with React, our platform ensures a seamless and intuitive user experience. The generated websites come with modern UI components, responsive layouts, and optimized code—making website creation effortless for users without technical expertise.
 
 ## Description
-
-This website provides college students a platform to
-collaborate and showcase their projects. It also allows them to connect with like-minded peers.
-It should include a variety of features to enhance user eWperience and foster
-collaboration.
-
-Enable students to post details about their projects, including descriptions,
-objectives, technologies used, and outcomes. Include multimedia support for
-images, videos, and documents to provide a comprehensive view of the
-projects.
-
-Toxicity classifier has been implemented as well to ensure a safe environment for communication among users. The model used for this has been imported from TensorFlow's pretrained Model -[Toxicity Classification](https://github.com/tensorflow/tfjs-models/tree/master/toxicity)
+With intuitive smart automation, and editable features, anyone can build stunning websites tailored to their needs. User-Friendly Interface: Intuitive design with drag-and-drop functionality for easy customization.
+AI-Driven Templates: Automatically generated templates based on user input, tailored to various industries and styles.
+Responsive Design: Ensures websites look great on all devices, from desktops to mobile phones.
+Customizable Components: Includes pre-designed components like headers, footers, galleries, and contact forms that can be easily modified.
+Seamless Integration: Supports embedding multimedia, social media links, and third-party tools.
+Instant Preview: Real-time preview feature to visualize changes instantly.
 ## User Research Insights
 
 <img src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg" alt="login page" height ="300" width="400">
