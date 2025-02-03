@@ -187,7 +187,18 @@ Search Profile
 
 In the terminal run the following command to run the code.
 
-The following code installs all the libraries required for proper functioning of the project.
+First go to server directory then run following command to install all dependencies for the server of the project.
+
+```bash
+npm i
+```
+
+The following code snippet starts the rendering of the server.
+
+```bash
+npm run dev
+```
+Then go to client directory then run following command to install all dependencies for the frontend of the project.
 
 ```bash
 npm i
@@ -196,15 +207,19 @@ npm i
 The following code snippet starts the rendering of the website.
 
 ```bash
-npm start
+npm run dev
 ```
-
 ## Usage
 
-After running the following command in the terminal
+After running the following command in the terminal inside server directory 
 
 ```bash
-npm start
+npm run dev 
+```
+Then running the following command in the terminal inside client directory 
+
+```bash
+npm run dev 
 ```
 
 The server should now be running on [http://localhost:3000](http://localhost:3000).
